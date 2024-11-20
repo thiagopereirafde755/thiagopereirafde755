@@ -11,8 +11,8 @@
   
   ##
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagopereirafde755&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereirafde755&hide_icons=true&theme=synthwave)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagopereirafde755&show_icons=true&theme=synthwave&include_all_comits=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereirafde755&hide_icons=true&theme=synthwave&include_all_comits=true&locale=pt-br)
 
  
   ##
