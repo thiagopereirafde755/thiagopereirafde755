@@ -11,6 +11,11 @@
   
   ##
  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagopereirafde755&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopereirafde755&hide_icons=true&theme=synthwave)
+
+ 
+  ##
 <div> 
   <a href="https://www.instagram.com/thiagopereira_.7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
