@@ -1,4 +1,4 @@
-## Oi eu sou o Thiago Pereira, estudante de programação!
+## Oi eu sou o Thiago Pereira, estudante do curso Técnico em informática!
 <div style="display: inline_block"><br>
   <img align="center" alt="thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="thi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
