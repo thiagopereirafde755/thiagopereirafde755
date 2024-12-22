@@ -29,6 +29,7 @@
 
 <div> 
   <a href="https://www.instagram.com/thiagopereira_.7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/rafael-carlos-322252177/">
+   </a>
 </div>
 
