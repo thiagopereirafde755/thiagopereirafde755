@@ -1,4 +1,9 @@
-## Oi eu sou o Thiago Pereira, estudante do curso Técnico em informática!😁👍
+<p align="center">
+ Oi, eu sou o Thiago Pereira, estudante do curso Técnico em informática!😁👍
+  </p>
+
+##
+
 <div style="display: inline_block"><br>
   <p align="center">
   <img align="center" alt="thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,11 +29,15 @@
  ##
   
 <picture align="center">
-   <p align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiagopereirafde755/thiagopereirafde755/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiagopereirafde755/thiagopereirafde755/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-  </p>
+  
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; height: 100%;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiagopereirafde755/thiagopereirafde755/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiagopereirafde755/thiagopereirafde755/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 </picture>
 
 
