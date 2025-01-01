@@ -15,7 +15,8 @@
     <img align="center" alt="c++" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
   </p>
 </div>
-  <img align="center" alt="c++" height="30" width="40" src="https://www.pngwing.com/pt/free-png-aalon">
+  
+
   ##
 
 <div>
