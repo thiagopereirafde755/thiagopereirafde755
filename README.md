@@ -1,5 +1,5 @@
 <p align="center">
- Oi, eu sou o Thiago Pereira, estudante do curso Técnico em informática!😁👍
+ Oi, eu sou o Thiago Pereira, estudante do curso técnico em informática!😁👍
   </p>
 
 ##
