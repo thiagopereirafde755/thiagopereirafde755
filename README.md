@@ -14,6 +14,7 @@
   <img align="center" alt="thi-java" height="30" width="40"  src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg">
   <img align="center" alt="thi-mysql" height="50" width="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
     <img align="center" alt="c++" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+<img align="center" alt="python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg">
   </p>
 </div>
   
