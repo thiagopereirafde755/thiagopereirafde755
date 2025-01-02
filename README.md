@@ -10,9 +10,9 @@
   <img align="center" alt="thi-HTML" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="thi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="thi-bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
-  <img align="center" alt="thi-php" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
-  <img align="center" alt="thi-java" height="30" width="40"  src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg">
-  <img align="center" alt="thi-mysql" height="50" width="60" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+  <img align="center" alt="thi-php" height="30" width="40" src="https://camo.githubusercontent.com/17962eb3d1dd3b11926720b06bad868b2f58a402ddb4010c02817fb4c1782796/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7068702e737667">
+  <img align="center" alt="thi-java" height="30" width="40"  src="https://camo.githubusercontent.com/7dca30b1b65f560fd34793d6af8da3ba68dbcf5e09139ed40bf9a8bdae079885/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667">
+  <img align="center" alt="thi-mysql" height="30" width="40" src="https://camo.githubusercontent.com/dc48b5787fe3c900b2fc7b9e4f957cd10afaac2dbee19a7a59fc98825a855fb0/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d7973716c2e737667">
     <img align="center" alt="c++" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
 <img align="center" alt="python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg">
   </p>
