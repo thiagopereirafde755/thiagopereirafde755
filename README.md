@@ -14,7 +14,7 @@
   <img align="center" alt="thi-java" height="30" width="40"  src="https://camo.githubusercontent.com/7dca30b1b65f560fd34793d6af8da3ba68dbcf5e09139ed40bf9a8bdae079885/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176612e737667">
   <img align="center" alt="thi-mysql" height="30" width="40" src="https://camo.githubusercontent.com/dc48b5787fe3c900b2fc7b9e4f957cd10afaac2dbee19a7a59fc98825a855fb0/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d7973716c2e737667">
     <img align="center" alt="c++" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-<img align="center" alt="python" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg">
+  <img align="center" alt="thi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </p>
 </div>
   
@@ -49,6 +49,8 @@
 <div> 
    <p align="center">
   <a href="https://www.instagram.com/thiagopereira_.7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-     </p>   
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/thiago-pereira-6bbba7345/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+       </p> 
 </div>
 
