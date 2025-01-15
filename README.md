@@ -3,7 +3,8 @@
   </p>
 
 ##
-
+<p><a href="https://thiago-pereira.netlify.app/"> </a>Meu portifolio </p>
+##
 <div style="display: inline_block"><br>
   <p align="center">
   <img align="center" alt="thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
