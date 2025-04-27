@@ -12,16 +12,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,cpp,java,python,flask,github" />
   </a>
-</p>
-
-
- 
-<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
- 
-
-
-          
-  </p>
 </div>
   
 
