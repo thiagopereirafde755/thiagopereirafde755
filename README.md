@@ -10,9 +10,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,cpp,java,python,flask,github,netlify,vscode,pycharm,arduino" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,flask,github" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=netlify,vscode,pycharm,arduino" />
   </a>
-</div>
+</p>
   
 
   ##
