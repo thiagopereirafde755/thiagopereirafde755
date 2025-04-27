@@ -7,6 +7,9 @@
                                 
 <div >
 <p align="center" >Habilidades</p>
+
+[![My Skills](https://skillicons.dev/icons?i=html, css, js, php, &perline=3)](https://skillicons.dev)
+
   <p align="center">
 <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
