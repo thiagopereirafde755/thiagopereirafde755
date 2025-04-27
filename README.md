@@ -3,9 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OI,+eu+sou+o+Thiago+Pereira;Sou+estudante+do+curso+técnico+em+informática!;Seja+Bem-vindo!)](https://git.io/typing-svg)
 
-<a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
-</a>
+<p align="center">
+    <a target="_blank">
+        <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
+    </a>
+</p>
 
 ##
                                 
